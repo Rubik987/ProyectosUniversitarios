@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Agendar Contacto</string>
+    <string name="txt_nombre1">Nombre</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_telefono">Telefono</string>
+    <string name="txt_grupo">Grupo</string>
+    <string name="etNombre1">Nombre</string>
+    <string name="etNombre2">Nombre</string>
+    <string name="etTelefono">Teléfono</string>
+    <string name="etTelefono2">Teléfono</string>
+    <string name="BotonGuardar">Guardar</string>
+    <string name="BotonRegresar">Regresar</string>
+    <string name="BotonCancelar">Cancelar</string>
+    <string name="BotonLimpiar">Limpiar Datos</string>
+    <string name="BotonAgenda">Agenda</string>
+    <string-array name="Grupo">
+        <item>Familia</item>
+        <item>Trabajo</item>
+        <item>Amigo</item>
+        <item>Ocasional</item>
+    </string-array>
+
+</resources>
